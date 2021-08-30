@@ -130,14 +130,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: flavio
+    owner: husterlf
     repo: blog-comments
     oauth:
         client_id: 8dfb57b3ad85d05cf963
         client_secret: cd291a81112ff3bea52e3e32edc0800c468621bc
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: flavio
+    owner: husterlf
     repo: blog-comments
     clientID: 8dfb57b3ad85d05cf963
     clientSecret: cd291a81112ff3bea52e3e32edc0800c468621bc
